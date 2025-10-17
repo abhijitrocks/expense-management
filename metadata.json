@@ -1,0 +1,7 @@
+{
+  "name": "ExpenseShare",
+  "description": "A frontend-only, mobile-first MVP for an expense-sharing app. It allows creating groups, adding expenses, viewing balances, and simplifying debts, with all data persisted locally in the browser.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
